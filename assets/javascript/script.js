@@ -2,7 +2,7 @@
 $(document).ready(function () {
     setTimeout(function () {
         $('.page-loader').fadeOut('slow');
-    }, 700);
+    }, 900);
 });
 
 /*------------------------------------- Designer Text Animation -------------------------------------*/

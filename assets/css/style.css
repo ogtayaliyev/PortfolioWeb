@@ -1469,10 +1469,10 @@ li.slick-active {
     filter: blur(1px);
 }
 .blog-img-section2 {
-    background-image: url('../images/blog-img2.png');
+    background-image: url('../images/ci-cd.jpg');
 }
 .blog-img-section3 {
-    background-image: url('../images/blog-img3.png');
+    background-image: url('../images/vue.jpg');
 }
 .blog-date {
     width: 64px;

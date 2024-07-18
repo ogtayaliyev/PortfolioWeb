@@ -1742,3 +1742,10 @@ li.slick-active {
     opacity: 1;
     transform: translateY(0) scale(1);
 }
+
+#bmc-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+}
